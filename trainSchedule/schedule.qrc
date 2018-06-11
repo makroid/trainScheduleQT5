@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/schedule">
+        <file>map.html</file>
+        <file>mapControl.js</file>
+    </qresource>
+</RCC>
